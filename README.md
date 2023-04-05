@@ -53,6 +53,9 @@
 
 - <a href="https://luchoane.medium.com/how-to-hack-toxic-hachthebox-writeup-fc274e19a7fd">Toxic - HTB</a>
 - <a href="https://luchoane.medium.com/abusehumandb-hackthebox-write-up-bc0df5eef2ec">AbuseHumanDB - HTB</a>
+- <a href="https://luchoane.medium.com/jwt-weak-secret-mongodb-object-ids-prediction-to-account-takeover-6224133774d2">JWT Weak Secret + MongoID prediction = Takeover</a>
+- <a href="https://luchoane.medium.com/time-based-blind-sql-injection-3ae4561c6641">Time-based Blind SQL Injection</a>
+- <a href="https://luchoane.medium.com/bypass-flutter-protection-hooking-verify-function-febe257e807e">Bypass Flutter Protection</a>
 <!-- BLOG-POST-LIST:END -->
   
 <!---
